@@ -1,0 +1,25 @@
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\微信收图.Form1.resources
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\微信收图.Properties.Resources.resources
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\bin\Debug\微信收图.exe
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\bin\Debug\微信收图.pdb
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\微信收图.exe
+C:\Users\Majesty\AppData\Local\Temporary Projects\微信收图\obj\x86\Debug\微信收图.pdb
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\微信收图.exe
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\微信收图.pdb
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\微信收图.Form1.resources
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\微信收图.Properties.Resources.resources
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code\vs\微信收图\微信收图\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Code\vs\微信收图\微信收图\bin\Debug\微信收图.exe
+E:\Code\vs\微信收图\微信收图\bin\Debug\微信收图.pdb
+E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.exe
+E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.pdb
+E:\代码\vs\微信收图\微信收图\bin\Debug\微信收图.exe
+E:\代码\vs\微信收图\微信收图\bin\Debug\微信收图.pdb
+E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.Form1.resources
+E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.Properties.Resources.resources
+E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.csproj.GenerateResource.Cache
