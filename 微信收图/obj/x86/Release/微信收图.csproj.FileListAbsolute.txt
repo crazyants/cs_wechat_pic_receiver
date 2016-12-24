@@ -5,3 +5,5 @@ E:\代码\vs\微信收图\微信收图\bin\Release\微信传图助手.exe
 E:\代码\vs\微信收图\微信收图\bin\Release\微信传图助手.pdb
 E:\代码\vs\微信收图\微信收图\obj\x86\Release\微信传图助手.exe
 E:\代码\vs\微信收图\微信收图\obj\x86\Release\微信传图助手.pdb
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Release\微信传图助手.exe
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Release\微信传图助手.pdb

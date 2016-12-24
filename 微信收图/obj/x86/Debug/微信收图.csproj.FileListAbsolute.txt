@@ -23,3 +23,10 @@ E:\代码\vs\微信收图\微信收图\bin\Debug\微信收图.pdb
 E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.Form1.resources
 E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.Properties.Resources.resources
 E:\代码\vs\微信收图\微信收图\obj\x86\Debug\微信收图.csproj.GenerateResource.Cache
+E:\git\cs_wechat_pic_receiver\微信收图\bin\Debug\微信传图助手.exe
+E:\git\cs_wechat_pic_receiver\微信收图\bin\Debug\微信传图助手.pdb
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Debug\微信收图.Form1.resources
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Debug\微信收图.Properties.Resources.resources
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Debug\微信收图.csproj.GenerateResource.Cache
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Debug\微信传图助手.exe
+E:\git\cs_wechat_pic_receiver\微信收图\obj\x86\Debug\微信传图助手.pdb
